@@ -1,6 +1,6 @@
 # GDStreamTools
 Geometry Dash Streamer Tool in Python
 
-Librerías necesarias:
-PyQt5 
+Required libraries:
+PyQt5
 GD.py
